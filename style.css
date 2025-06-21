@@ -1,5 +1,5 @@
 body {
-	background: #10b21d;
+	background: #0ce41e;
 }
 .wrapper {
 	width: 400px;
@@ -7,7 +7,7 @@ body {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	background: #c7eb12;
+	background: #ddf508;
 	padding: 50px;
 	color: #0627f9;
 	text-align: center;
