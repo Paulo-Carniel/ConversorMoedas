@@ -5,9 +5,9 @@ function outcome() {
     let valor = Number(document.getElementById('valor').value)
     let total = 0
     const moedas  = {
-        dolar : 5.51,
-        euro : 6.35,
-        yuan : 0.77,
+        dolar : 5.48,
+        euro : 6.43,
+        yuan : 0.76,
         iene : 0.038
     }
     
